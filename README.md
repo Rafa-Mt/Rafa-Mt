@@ -1,6 +1,6 @@
 - Hi, I’m Rafael Mata
-- I’m interested in game development
-- I’m currently learning Python and C#
+- I’m interested in Web Development 
+- I’m currently learning JavaScript fundamentals
 - How to reach me: matarafael2004@gmail.com
 
 <!---
